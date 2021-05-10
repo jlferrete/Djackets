@@ -1,5 +1,10 @@
 # djackets_vue
 
+## Run VScode as SuperAdmin
+```
+sudo code --user-data-dir="~/.vscode-root"
+```
+
 ## Run enviroment
 ```
 source enviroment_3_8_2/bin/activate
