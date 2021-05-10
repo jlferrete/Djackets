@@ -1,5 +1,10 @@
 # djackets_vue
 
+## Run enviroment
+```
+source enviroment_3_8_2/bin/activate
+```
+
 ## Project setup
 ```
 npm install
