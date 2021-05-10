@@ -10,6 +10,17 @@ sudo code --user-data-dir="~/.vscode-root"
 source enviroment_3_8_2/bin/activate
 ```
 
+## Release port 8000
+```
+sudo netstat -tupln
+kill -9 1846
+```
+
+## Run Python server
+```
+python manage.py runserver
+```
+
 ## Project setup
 ```
 npm install
